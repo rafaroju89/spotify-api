@@ -4,15 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Autor: Rafael Rodríguez Juárez
 
-An application used to filter data (Artists, Albums and Tracks) from Spotify API
+A frontend application developed with React used to filter data (Artists, Albums and Tracks) from Spotify API.
+This aplic
 
 Installation:
 
-## `npm install`  
+## `yarn install`  
 
 To Start Server:
 
-## `npm start`  
+## `yarn start`  
 
 To Visit App:
 
