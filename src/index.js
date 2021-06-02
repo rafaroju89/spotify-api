@@ -1,17 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import {App} from './App';
+import {MusicTrackApp} from './MusicTrackApp';
 import reportWebVitals from './reportWebVitals';
 
+/*
+  This proyect was created with:
+    React Version 17.0.2
+    React Router 5.2.0
+    Bootstrap 5.0.0 
+*/
+
 ReactDOM.render(
-  
-    <App />,
-  
+    <MusicTrackApp />,
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
