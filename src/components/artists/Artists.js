@@ -2,7 +2,7 @@ import React from 'react'
 import { Artist } from './Artist'
 
 export const Artists = ({items}) => {
-    /*Component that get the Artist List and map each item in a card */
+    /*Component that gets the Artist List and map each item in a card */
     return (
         <div className="card">
             {
